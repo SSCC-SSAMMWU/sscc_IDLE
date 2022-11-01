@@ -47,7 +47,7 @@ class MyClient(discord.Client):
 intents = discord.Intents.default()
 intents.message_content = True
 client = MyClient(intents=intents)
-client.run('NzExNDc0NDYwODEyNjQwMjU3.GkNOW8.piKoo50G68lEJmbBCaNG-S67YEl15nm5R7Cf88')
+# client.run('NzExNDc0NDYwODEyNjQwMjU3.GkNOW8.piKoo50G68lEJmbBCaNG-S67YEl15nm5R7Cf88')
 
 #  # ButtonType().Primary
 #  # ButtonType().Success
